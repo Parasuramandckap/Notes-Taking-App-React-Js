@@ -1,0 +1,10 @@
+body{
+  background-color: gray;
+}
+
+.show{
+  border: 2px solid red;
+}
+.hide{
+  border: none;
+}
